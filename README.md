@@ -14,3 +14,10 @@ HTML HEADLINES they come with six defferent type such as h1 to h6 and h1 is the 
 Also they start with opening tag and close tag at the end 
 HTML BOLD AND ITALICS there are two different elements to express this distintion which is <i> for italic and <em> for emphasis
 also there are these elements emphasize and making something bold  <strong> which show seriousness 
+HTML LIST there three typs of list unordered  , ordered  and definition lists
+Unordered list are lst that are commomly used and have dot or marker appear before every item the element that stand for Unordered list is ul
+while Ordered list is similer to unordered list but the element is ol and there is specific order to the items on the list
+Definition list this type of list is used to create that favour a key pair-value of computer
+dd stand for definition description , dt definition term , dl stand for definition list 
+The two elemnts which is cite and blockqoute serve a semantaic purpose and they inform computers about a suitable way to apply cudtom styling . We put two paragraghs and cite element but we can also put any element within the qoutes 
+ 
