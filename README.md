@@ -25,3 +25,9 @@
 <li>A subscript or superscript is a character that is set slightly below or above the normal line of type, respectively. </li>
 The "small" tag defines smaller text (like copyright and other side-comments) </li>
 </ul>
+module 2
+A style sheet is like a CSS file that holds all the styles for your webpage 
+To connect the two which is HTML & CSS you simple link then togather 
+CSS has two parts such as Selector and declaration block
+The selector specifies a pattern in the HTML, and if the pattern matches, the styles within the declaration block are applied to the corresponding HTML elements. 
+CSS has three components such as selector propeety and value
