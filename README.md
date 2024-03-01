@@ -26,8 +26,20 @@
 The "small" tag defines smaller text (like copyright and other side-comments) </li>
 </ul>
 module 2
-A style sheet is like a CSS file that holds all the styles for your webpage 
-To connect the two which is HTML & CSS you simple link then togather 
-CSS has two parts such as Selector and declaration block
-The selector specifies a pattern in the HTML, and if the pattern matches, the styles within the declaration block are applied to the corresponding HTML elements. 
-CSS has three components such as selector propeety and value
+<li>A style sheet is like a CSS file that holds all the styles for your webpage </ul>
+<li>To connect the two which is HTML & CSS you simple link then togather </ul>
+<li>CSS has two parts such as Selector and declaration block</ul>
+<li>The selector specifies a pattern in the HTML, and if the pattern matches, the styles within the declaration block are applied to the corresponding HTML elements. </ul>
+<li>CSS has three components such as selector propeety and value</ul>
+<li>An HTML form is used to collect user input. The user input is most often sent to a server for processing.</ul>
+<li>The HTML <form> element is used to create an HTML form for user input</ul>
+<li>The <form> element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc</ul>
+<li>The HTML <input> element is the most used form element.</ul>
+<li>An <input> element can be displayed in many ways, depending on the type attribute.</ul>
+<li>The <input type="text"> defines a single-line input field for text input.</ul>
+ <li>The <label> element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focuses on the input element.</ul> 
+ <li>Radio buttons let a user select ONE of a limited number of choice</ul>
+ <li>Checkboxes let a user select ZERO or MORE options of a limited number of choices</ul>
+ <li><The <input type="submit"> defines a button for submitting the form data to a form-handler/ul>
+ <li>If the name attribute is omitted, the value of the input field will not be sent at all</ul>
+ <li>The form-handler is typically a file on the server with a script for processing input data.</ul>
